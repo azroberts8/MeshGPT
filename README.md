@@ -30,5 +30,5 @@ python main.py
 
 ## Helpful Documentation
 
-**- [Meshtastic Python Library Documentation](https://python.meshtastic.org/)**
+**- [Meshtastic Python Library Documentation](https://python.meshtastic.org/)**  
 **- [Ollama Python Library Getting Started](https://ollama.com/blog/python-javascript-libraries)** *(TODO: find more in-depth documentation)*
