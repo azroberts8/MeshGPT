@@ -20,7 +20,15 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-**4. Launch the application**  
+**4. Connect mesh radio to Pi**  
+Connect your mesh radio to your Pi over USB. The Meshtastic library can typically auto-detect your device when the program runs
+
+**5. Launch the application**  
 ```bash
 python main.py
 ```
+
+## Helpful Documentation
+
+**- [Meshtastic Python Library Documentation](https://python.meshtastic.org/)**
+**- [Ollama Python Library Getting Started](https://ollama.com/blog/python-javascript-libraries)** *(TODO: find more in-depth documentation)*
